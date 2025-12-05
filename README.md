@@ -35,16 +35,18 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+**Shiro**
 
-To learn more about developing your project with Expo, look at the following resources:
+Shiro is a minimalist, privacy-first journaling companion designed to help you record, reflect, and understand your inner world. Powered by advanced AI, it transforms writing into calm, meaningful self-conversation - never noisy, never intrusive.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+**Key Features**
 
-## Join the community
+- **Private by Design**: All entries - text, voice, and images - are AES-encrypted and stored locally or securely in the cloud. Your thoughts remain yours alone; even the developers can't read them.
 
-Join our community of developers creating universal apps.
+- **AI Reflection**: Shiro gently helps you unpack your thoughts with mindful prompts, emotional insights, and guided reflections that evolve with your writing style.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- **Multimodal Journaling**: Capture your day in any form - type, talk, or drop a photo. Shiro understands each mode and links them into a unified timeline.
+
+- **Custom Modes**: Switch between "Easy Chat" for casual notes or "Reflective Mode" for deeper self-discovery.
+
+same app ui frontend, everyone can use.
